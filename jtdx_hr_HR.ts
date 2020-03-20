@@ -2669,7 +2669,7 @@ popis. Popis se može održavati u Postavkama (F2).</translation>
         <location filename="../mainwindow.cpp" line="3700"/>
         <location filename="../mainwindow.cpp" line="3709"/>
         <source>Are You sure to change UI Language to English, JTDX will restart?</source>
-        <translation type="unfinished"></translation>
+        <translation>Are You sure to change UI Language to Hrvatski, JTDX will restart?</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3703"/>
