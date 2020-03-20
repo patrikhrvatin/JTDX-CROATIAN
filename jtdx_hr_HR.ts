@@ -1300,7 +1300,7 @@ ZD8,ZD9,ZF,ZK3,ZL,ZL7,ZL8,ZL9,ZP,ZS,ZS8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</sou
         <location filename="../mainwindow.ui" line="2753"/>
         <source>Hint</source>
         <translatorcomment>nagađanje</translatorcomment>
-        <translation>Nagovještaj</translation>
+        <translation type="unfinished">Savjet</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="2784"/>
@@ -2037,7 +2037,7 @@ popis. Popis se može održavati u Postavkama (F2).</translation>
     <message>
         <location filename="../mainwindow.ui" line="4909"/>
         <source>Runaway Tx watchdog</source>
-        <translation>Čuvar isteka TX predaje</translation>
+        <translation type="unfinished">Čuvar Tx watchdog</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="4917"/>
@@ -3599,7 +3599,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="491"/>
         <source> minutes</source>
-        <translation></translation>
+        <translation> minute</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="505"/>
@@ -5248,7 +5248,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
     <message>
         <location filename="../Configuration.ui" line="4817"/>
         <source>Scheduler</source>
-        <translation>Raspored</translation>
+        <translation>Planer</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="4825"/>
