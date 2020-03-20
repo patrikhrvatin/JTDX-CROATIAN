@@ -1710,12 +1710,12 @@ popis. Popis se može održavati u Postavkama (F2).</translation>
     <message>
         <location filename="../mainwindow.ui" line="4384"/>
         <source>narrow Filter</source>
-        <translation>uskopojasni Filter</translation>
+        <translation type="unfinished">Uskopojasni Filter</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="4392"/>
         <source>decoder sensitivity</source>
-        <translation>osjetljivost dekodera</translation>
+        <translation type="unfinished">Osjetljivost dekodera</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="4400"/>
@@ -1725,7 +1725,7 @@ popis. Popis se može održavati u Postavkama (F2).</translation>
     <message>
         <location filename="../mainwindow.ui" line="4408"/>
         <source>decoding cycles</source>
-        <translation>ciklusi dekodiranja</translation>
+        <translation type="unfinished">Ciklusi dekodiranja</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="4416"/>
@@ -1770,7 +1770,7 @@ popis. Popis se može održavati u Postavkama (F2).</translation>
     <message>
         <location filename="../mainwindow.ui" line="4539"/>
         <source>Auto RX frequency Filter</source>
-        <translation>Automatski filtar RX frekvencije</translation>
+        <translation>Automatski filter RX frekvencije</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="4563"/>
@@ -2227,7 +2227,7 @@ popis. Popis se može održavati u Postavkama (F2).</translation>
     <message>
         <location filename="../mainwindow.ui" line="5225"/>
         <source>2  Call decoded till start of TX interval</source>
-        <translation>2 pozovi dekodiranog do početka TX intervala</translation>
+        <translation type="unfinished">2 Pozovi dekodiranog do početka TX intervala</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5233"/>
@@ -2307,7 +2307,7 @@ popis. Popis se može održavati u Postavkama (F2).</translation>
     <message>
         <location filename="../mainwindow.ui" line="5435"/>
         <source>late start of decoder</source>
-        <translation>kasni početak dekodiranja</translation>
+        <translation type="unfinished">Kašnjenje početka dekodiranja</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5443"/>
@@ -2663,7 +2663,7 @@ popis. Popis se može održavati u Postavkama (F2).</translation>
         <location filename="../mainwindow.cpp" line="3698"/>
         <location filename="../mainwindow.cpp" line="3706"/>
         <source>Confirm change Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdi promjenu jezika</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3700"/>
@@ -4135,7 +4135,7 @@ transmitting periods.</source>
         <location filename="../Configuration.ui" line="1687"/>
         <location filename="../Configuration.ui" line="1717"/>
         <source>Mono</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1692"/>
@@ -4171,7 +4171,7 @@ both here.</source>
     <message>
         <location filename="../Configuration.ui" line="1759"/>
         <source>Remember power settings by band and mode</source>
-        <translation>Sjetite se postavke snage prema opsegu i načinu</translation>
+        <translation type="unfinished">Zapamti postavke snage prema opsegu i načinu</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1767"/>
@@ -4191,7 +4191,7 @@ both here.</source>
     <message>
         <location filename="../Configuration.ui" line="1780"/>
         <source>Tune</source>
-        <translation>T</translation>
+        <translation type="unfinished">Tune</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1805"/>
@@ -4201,7 +4201,7 @@ both here.</source>
     <message>
         <location filename="../Configuration.ui" line="1811"/>
         <source>Loc&amp;ation:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lo&amp;kacija:</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1827"/>
@@ -4241,7 +4241,7 @@ both here.</source>
     <message>
         <location filename="../Configuration.ui" line="1912"/>
         <source>Counters. Search through decoded messages, call CQ or Halt Tx if:</source>
-        <translation>Brojači. Pretražujte kroz dekodirane poruke, nazovite CQ ili Zaustavite Tx ako:</translation>
+        <translation type="unfinished">Brojači. Pretražujte kroz dekodirane poruke, nazovite CQ ili zaustavite Tx ako:</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1944"/>
@@ -4279,7 +4279,7 @@ both here.</source>
     <message>
         <location filename="../Configuration.ui" line="2108"/>
         <source>Halt TX if operator I called answered to other operator</source>
-        <translation>Zaustavi TX, ako sam zvao korespondenta, on je odgovorio je drugom korespondentu</translation>
+        <translation type="unfinished">Zaustavi TX, ako sam zvao korespondenta, on je odgovorio drugom korespondentu</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="2115"/>
@@ -4394,7 +4394,7 @@ i DX Lokatora kad je poslan 73 ili slobodna tekstualna poruka.</translation>
     <message>
         <location filename="../Configuration.ui" line="2359"/>
         <source>Enable automatic logging of QSO</source>
-        <translation>Omogući automatsko logiranje QSOa</translation>
+        <translation type="unfinished">Automatsko logiranje QSOa</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="2389"/>
