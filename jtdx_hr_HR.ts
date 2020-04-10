@@ -4606,7 +4606,7 @@ popis. Popis se može održavati u Postavkama (F2).</translation>
     <message>
         <location filename="../mainwindow.cpp" line="1633"/>
         <source>TX Odd</source>
-        <translation>TX neparne</translation>
+        <translation>TX Neparne</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1678"/>
